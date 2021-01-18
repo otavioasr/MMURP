@@ -1,0 +1,2 @@
+g++ ./Sources/*.cpp Main.cpp -o main
+./main Configs/Config1.csv --iterMax 80 --kMax 5
